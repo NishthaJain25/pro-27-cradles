@@ -1,2 +1,1 @@
-# pro-27-cradles
-newtons cradles
+# NC27
